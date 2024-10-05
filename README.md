@@ -1,0 +1,1 @@
+This project aims to predict housing prices in California using a linear regression model. The dataset contains features related to housing blocks in California, including factors like the number of rooms, location, population, and proximity to important places. By using these features, I build a regression model to predict the median house value for each block.
